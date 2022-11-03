@@ -2,7 +2,7 @@ FROM node:14.16.0
 
 WORKDIR /usr/src/app
 
-RUN npm i -g azure-functions-core-tools@3 --unsafe-perm true
+RUN npm i -g azure-functions-core-tools@4 --unsafe-perm true
 
 ENV AzureWebJobsScriptRoot=/usr/src/app \
     AzureFunctionsJobHost__Logging__Console__IsEnabled=true
