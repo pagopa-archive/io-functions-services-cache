@@ -52,7 +52,7 @@
     "@pagopa/io-functions-commons": "^21.2.0",
     "@pagopa/ts-commons": "^10.0.1",
     "azure-storage": "^2.10.3",
-    "express": "^4.15.3",
+    "express": "^4.17.3",
     "fp-ts": "^2.10.5",
     "io-functions-express": "^1.1.0",
     "io-ts": "^2.2.16",
